@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dev-stack-leve": {
+      "hosting": {
+        "itrends-client": [
+          "dev-stack-leve"
+        ]
+      }
+    }
+  }
+}
